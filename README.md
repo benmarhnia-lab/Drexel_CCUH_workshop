@@ -1,2 +1,2 @@
-# Drexel_CCUH_workshop
-This repository will contain the materials related to the "Quasi-experimental methods for climate epidemiology" Drexel CCUH Workshop.
+# Drexel CCUH workshop
+This repository contains the materials related to the "Quasi-experimental methods for climate epidemiology" Drexel CCUH Workshop. This is a 3-hour fully virtual workshop led by Dr. Tarik Benmarhnia, Professor, Scripps Institution of Oceanography Department at UC San Diego, and supported by Dr. Yiqun Ma. The workshop will take place over three weeks, on Friday, March 7, March 14, and March 21. 
